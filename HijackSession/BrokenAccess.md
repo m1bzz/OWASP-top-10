@@ -3,4 +3,4 @@
 ## Середовище: Kali Linux, Docker engine, OWASP WebGoat container.
 
 ### Launch webgoat from docker container
-![docker](image.png)
+![docker](docker.png)
